@@ -5,7 +5,7 @@ def sum_of_evens(min_value, max_value):
         min_value (int): Minimum number
         max_value (int): Maximum number
 
-    Returns:
+    Returns: sss
         total: sum of the even numbers between min_value and max_value
 
     Example:
