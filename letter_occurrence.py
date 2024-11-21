@@ -7,7 +7,7 @@ def letter_occurrence(input_string):
     input_string : str
         The string in which to count occurrences of 'a' and 'A'.
 
-    Returns: sss
+    Returns:
     -------
     int:
         The count of 'a' and 'A' in the input string.
