@@ -13,7 +13,7 @@ from Assessed_Lab.py import (
     calculate_weekly_pay,
     celsius_to_fahrenheit,
     annual_net_income,
-    letter_occurrence,
+    letter_occurrence, sss
     km_to_miles,
     fuel_cost,
     decrypt_cypher_text,
