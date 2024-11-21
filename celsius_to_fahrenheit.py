@@ -2,7 +2,7 @@ def celsius_to_fahrenheit(celsius):
     """
     This function converts a temperature from Celsius to Fahrenheit.
 
-    Parameters: sss
+    Parameters: 
     ----------
     celsius : float
         A number representing the temperature in Celsius.
