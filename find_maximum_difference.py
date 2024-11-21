@@ -9,7 +9,7 @@ def find_maximum_difference(list1, list2):
     list2 : list
         A non-empty 1-dimensional list of numbers.
 
-    Returns:
+    Returns: sss
     -------
     int:
         The maximum difference between any elements from the first list and any element from the second list.
