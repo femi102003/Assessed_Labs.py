@@ -7,7 +7,7 @@ def max_of_three(num1, num2, num3):
     num2 (int): The second number.
     num3 (int): The third number.
 
-    Returns: sss
+    Returns:
     int: The maximum of the three numbers.
     """
     # Hint: you are required to make use of maximum variable that is returned by the function below.
