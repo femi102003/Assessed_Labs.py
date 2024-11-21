@@ -7,7 +7,7 @@ def km_to_miles(kilometers):
     kilometers : float
         A positive number representing the distance in kilometers.
 
-    Returns: sss
+    Returns:
     -------
     float:
         The equivalent distance in miles.
