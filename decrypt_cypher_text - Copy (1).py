@@ -9,7 +9,7 @@ def decrypt_cypher_text(text, key):
     key : int
         A positive integer used as the key for decryption.
 
-    Returns:
+    Returns: sss
     -------
     str:
         The decrypted text as a single string.
