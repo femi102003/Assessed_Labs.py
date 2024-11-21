@@ -6,7 +6,7 @@ def winning_numbers(user_list, winning_list):
     user_list (list): A list of three integers representing the user's chosen numbers.
     winning_list (list): A list of integers representing the winning numbers.
 
-    Returns:
+    Returns: sss
     str: A string indicating the prize won:
         - "First" if all three numbers match the winning numbers.
         - "Second" if two numbers match the winning numbers.
