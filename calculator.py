@@ -15,7 +15,7 @@ def calculate(num1, num2, operator):
         - "<" for less than comparison
         - "<=" for less than or equal to comparison
 
-    Returns:
+    Returns: ssss
     result: The result of the arithmetic operation or comparison. The type of the result depends on the operator:
         - int or float for arithmetic operations
         - bool for comparison operations
