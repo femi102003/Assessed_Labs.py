@@ -2,7 +2,7 @@
 # in the terminal, type the following command:
 # pip install pytest
 import pytest
-from assessed_lab_exercises import (
+from Assessed_Lab.py import (
     calculator,
     max_of_three,
     winning_numbers,
