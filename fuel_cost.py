@@ -7,7 +7,7 @@ def fuel_cost(distance_miles):
     distance_miles : float
         The travelled journey in miles (positive number).
 
-    Returns:
+    Returns: sss
     -------
     float:
         The total cost of fuel in pounds (£) for the given distance.
