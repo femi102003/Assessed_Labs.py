@@ -7,7 +7,7 @@ def is_golden_number(n):
     n : int
         A positive integer less than 1000.
 
-    Returns: sss
+    Returns:
     -------
     bool:
         True if the number is a golden number, otherwise False.
