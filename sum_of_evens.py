@@ -1,5 +1,4 @@
 def sum_of_evens(min_value, max_value):
-    
     """Find the sum of even numbers between two given numbers (inclusive).
 
     Args:
@@ -17,15 +16,15 @@ def sum_of_evens(min_value, max_value):
     print(total) # total is 22.
 
     """
-
-
-
-    # Function implementation here ...
-    
+    total = 0
+    for num in range(min_value, max_value + 1):
+        if num % 2 == 0:
+            total += num
     
     return total
 
-# # # Run code example
-# min_value = 10
-# max_value = 13
-# result = sum_of_evens(min_value, max_value) # returns 22
+# Run code example
+min_value = 4
+max_value = 34
+result = sum_of_evens(min_value, max_value)
+print(result)

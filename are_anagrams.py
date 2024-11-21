@@ -1,5 +1,4 @@
 def are_anagrams(str1, str2):
-    eeee
     """
     This function checks if two strings are anagrams of each other.
 
@@ -22,10 +21,9 @@ def are_anagrams(str1, str2):
     """
 
     # Function implementation here ...
-
-
-    return output 
+    # Anagrams have the same characters with the same frequency
+    return sorted(str1) == sorted(str2)
 
 ## Example 
-# print(are_anagrams("listen", "silent"))  # Expected output: True
-# print(are_anagrams("hello", "world"))    # Expected output: False
+print(are_anagrams("listen", "silent"))  # Expected output: True
+print(are_anagrams("hello", "world"))    # Expected output: False

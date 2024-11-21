@@ -1,6 +1,6 @@
 def calculate_average(numbers):
     """
-    This function calculates the average of a list of numbers using a for loop.
+    This function calculates the average of a list of numbers without using built-in Python functions.
 
     Parameters:
     ----------
@@ -17,10 +17,18 @@ def calculate_average(numbers):
     calculate_average([10, 20, 30, 40, 50])  # Output: 30.0
     """
     
-    # Function implementation here ...
+    if not numbers:
+        return None
 
+    total = 0
+    count = 0
+    for number in numbers:
+        total += number
+        count += 1
+
+    average = total / count
     return average
 
-# # Example usage
-# numbers = [10, 20, 30, 40, 50]
-# print("The average is:", calculate_average(numbers))  # Expected output: The average is: 30.0
+# Example usage
+numbers = [34, 70, 45, 88, 134]
+print("The average is:", calculate_average(numbers))  # Expected output: The average is: 74.2
