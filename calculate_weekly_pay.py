@@ -5,7 +5,7 @@ def calculate_weekly_pay(hours_worked):
     Parameters:
     hours_worked (int): The total number of hours worked by the employee in a week.
     
-    Returns: sss
+    Returns:
     float: The total weekly pay.
     """
     regular_rate = 12  # £12 per hour for up to 35 hours
