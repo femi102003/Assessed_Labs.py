@@ -7,7 +7,7 @@ def net_annual_income(gross_salary):
     gross_salary : float
         The total annual gross salary before tax.
 
-    Returns:
+    Returns: sss
     -------
     float:
         The net annual salary after tax has been deducted.
