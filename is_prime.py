@@ -4,7 +4,7 @@ def is_prime(num):
     Input:
         num (int): The number to check.
 
-    Returns: sss
+    Returns:
         bool: True if the number is prime, False otherwise.
 
     Example:
