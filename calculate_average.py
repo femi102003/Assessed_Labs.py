@@ -7,7 +7,7 @@ def calculate_average(numbers):
     numbers : list
         A list of numerical values (int or float).
 
-    Returns:
+    Returns:sss
     -------
     float:
         The average of the numbers in the list. If the list is empty, returns None.
