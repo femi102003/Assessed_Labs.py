@@ -1,0 +1,3 @@
+# def letter_occurrence(input_string):
+    # complete function implementation...
+    # return count

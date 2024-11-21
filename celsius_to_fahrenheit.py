@@ -1,0 +1,3 @@
+# def celsius_to_fahrenheit(celsius):
+   # complete your function implementation... 
+   # return output

@@ -1,0 +1,3 @@
+# def is_golden_number(n):
+#     # function implementation ...
+#     return boolean
