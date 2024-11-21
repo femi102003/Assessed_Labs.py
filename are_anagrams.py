@@ -9,7 +9,7 @@ def are_anagrams(str1, str2):
     str2 : str
         The second string to be compared.
 
-    Returns: sss
+    Returns:
     -------
     bool:
         Returns True if the two strings are anagrams, otherwise False.
